@@ -1,0 +1,1 @@
+@reboot /home/alarm/init.sh

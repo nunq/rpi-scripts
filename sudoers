@@ -1,0 +1,1 @@
+alarm ALL = NOPASSWD: /usr/local/bin/set_red_led, /usr/local/bin/set_green_led

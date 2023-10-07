@@ -1,0 +1,4 @@
+#!/bin/bash
+# /usr/local/bin/set_green_led
+echo 0 > /sys/class/leds/PWR/brightness
+echo 1 > /sys/class/leds/ACT/brightness
